@@ -3,21 +3,17 @@
 # dependencies
 /api/node_modules
 /client/node_modules
-/rtmpserver/node_modules
 /api/.pnp
 /client/.pnp
-/rtmpserver/.pnp
 .pnp.js
 
 # testing
 /api/coverage
 /client/coverage
-/rtmpserver/coverage
 
 # production
 /api/build
 /client/build
-/rtmpserver/build
 
 # misc
 .DS_Store
